@@ -199,21 +199,21 @@ button:hover {
 
 .dropdown-container {
   display: flex;
-  align-items: center; /* Center items vertically */
-  justify-content: space-between; /* Space between dropdown and button */
-  margin-bottom: 15px; /* Space between dropdowns */
+  align-items: center; 
+  justify-content: space-between; 
+  margin-bottom: 15px; 
 }
 
 .remove-button {
-  background: none; /* Remove default button styles */
-  border: none; /* No border */
-  cursor: pointer; /* Pointer cursor */
-  color: #ff4d4d; /* Red color for remove button */
-  margin-left: 10px; /* Space between dropdown and button */
+  background: none; 
+  border: none; 
+  cursor: pointer; 
+  color: #ff4d4d; 
+  margin-left: 10px; 
 }
 
 .remove-button:hover {
-  color: black; /* Darker red on hover */
+  color: black; 
 }
 .error {
   color: red;
